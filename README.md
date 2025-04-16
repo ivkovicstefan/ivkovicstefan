@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Stefan 👋
+**Software Engineer @ Euronet**
 
-<!--
-**ivkovicstefan/ivkovicstefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Core Tech Stack
+- **Backend:** C# (.NET)
+- **Frontend:** Vue.js, Tailwind CSS
+- **Databases:** MSSQL, Redis
+- **Tools**: Git, TFS, Docker
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Microservices
+- Domain-Driven Design
+- Test-Driven Development
+  
+## 🤝 Let's Connect
+- [Linkedin](https://www.linkedin.com/in/ivkovicstefan/)
